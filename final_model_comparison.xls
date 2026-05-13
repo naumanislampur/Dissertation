@@ -1,0 +1,7 @@
+Model,Version,CV_R2_mean,CV_R2_std,CV_MAE_mean,Val_R2,Val_MAE,New_R2,New_MAE
+Ridge Regression,Core,0.7689,0.0063,0.523,0.7716,18.22,0.7421,6.69
+Random Forest,Core,0.8246,0.0084,0.424,0.8344,11.22,0.4168,7.31
+Gradient Boosting,Core,0.8255,0.0082,0.436,0.8274,11.23,0.7207,6.66
+Ridge Regression,Extended,0.9964,0.0004,0.04,0.9971,3.42,0.9984,1.32
+Random Forest,Extended,0.9994,0.0003,0.006,0.9993,0.45,1.0,0.2
+Gradient Boosting,Extended,0.9998,0.0001,0.011,0.9998,0.61,0.9999,0.31
